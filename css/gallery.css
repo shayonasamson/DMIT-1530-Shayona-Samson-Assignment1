@@ -71,6 +71,7 @@ nav li {
     font-size: 2rem;
     margin-bottom: 2rem;
     text-align: center;
+    font-weight: normal;
 }
 
 .box-one>div>div:nth-child(4)>p,
@@ -84,10 +85,12 @@ nav li {
 }
 
 .box-one>div>div:nth-child(5)>p,
-.box-one>div>div:nth-child(7)>p {
+.box-one>div>div:nth-child(7)>p,
+.box-one > div > div:nth-child(6) > p {
     font-size: 14px;
     margin-bottom: 1rem;
 }
+
 
 .box-two {
     padding: 4.5rem 2.6rem;
@@ -120,6 +123,7 @@ nav li {
     font-size: 1.8rem;
     margin-bottom: 2rem;
 }
+
 
 hr {
     width: 1rem;

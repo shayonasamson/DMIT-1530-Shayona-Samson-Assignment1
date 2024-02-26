@@ -25,6 +25,8 @@ img {
 .justify-center {
     justify-content: center;
 }
+h2 {font-weight: normal;
+font-size: 1.75rem;}
 
 
 /* mobile */
@@ -47,7 +49,7 @@ nav>div>ul {
 }
 
 nav img {
-    width: 300px;
+    width: 18.75rem;
 }
 
 nav a {
@@ -96,6 +98,7 @@ nav li {
     padding: 2rem;
     text-align: center;
 }
+.block-two > div:nth-child(1) > div {text-align: center;}
 
 .star {
     text-align: center;
@@ -127,6 +130,7 @@ nav li {
     text-align: center;
     font-weight: bold;
 }
+.block-three > div:nth-child(1) > div{text-align: center;}
 
 .block-three {
     text-align: center;
