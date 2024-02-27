@@ -46,7 +46,7 @@ nav>div>ul {
 }
 
 nav img {
-    width: 300px;
+    width: 18.75rem;
 }
 
 nav a {
@@ -76,18 +76,18 @@ nav li {
 
 .box-one>div>div:nth-child(4)>p,
 .box-one>div>div:nth-child(2)>p {
-    font-size: 29px;
+    font-size: 1.81rem;
     margin-bottom: 2rem;
 }
 
 .box-one>div>div:nth-child(3)>p {
-    font-size: 14px;
+    font-size: 0.87rem;
 }
 
 .box-one>div>div:nth-child(5)>p,
 .box-one>div>div:nth-child(7)>p,
 .box-one > div > div:nth-child(6) > p {
-    font-size: 14px;
+    font-size: 0.87rem;
     margin-bottom: 1rem;
 }
 
@@ -95,7 +95,7 @@ nav li {
 .box-two {
     padding: 4.5rem 2.6rem;
     background: #fff;
-    font-size: 28.69px;
+    font-size: 1.8rem;
     text-align: center;
 }
 
@@ -112,7 +112,7 @@ nav li {
 
 .box-three>div:nth-child(1)>p,
 .box-three>div:nth-child(2)>p:nth-child(2) {
-    font-size: 14px;
+    font-size: 0.87rem;
 }
 
 .box-three>div:nth-child(1)>p {
@@ -139,16 +139,16 @@ footer {
 }
 
 footer img {
-    width: 300px;
+    width: 18.75rem;
 }
 
 footer h3 {
-    font-size: 15px;
+    font-size: 1rem;
 }
 
 footer>div:nth-child(1)>p {
     margin-top: 1rem;
-    font-size: 14px;
+    font-size: 0.87rem;
 }
 
 footer>div:nth-child(2) {
@@ -157,7 +157,7 @@ footer>div:nth-child(2) {
 }
 
 footer>div:nth-child(2) p {
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 

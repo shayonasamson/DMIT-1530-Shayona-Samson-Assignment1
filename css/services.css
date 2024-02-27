@@ -32,16 +32,16 @@ footer {
 }
 
 footer img {
-    width: 300px;
+    width: 18.75rem;
 }
 
 footer h3 {
-    font-size: 15px;
+    font-size: 1rem;
 }
 
 footer>div:nth-child(1)>p {
     margin-top: 1rem;
-    font-size: 14px;
+    font-size: 0.87rem;
 }
 
 footer>div:nth-child(2) {
@@ -50,7 +50,7 @@ footer>div:nth-child(2) {
 }
 
 footer>div:nth-child(2) p {
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 
